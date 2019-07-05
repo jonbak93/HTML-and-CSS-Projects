@@ -1,0 +1,10 @@
+p {
+    background-color: salmon;
+    color: lime;
+    font-style: oblique;
+    text-align: center
+}
+
+h1{
+    box-shadow: 10px 10px 8px;
+}
