@@ -12,3 +12,10 @@ body{
 nav{
     display: block;
 }
+
+form {
+    margin:auto;
+    width: 100%;
+    border: 50px;
+    border-style: groove;
+}
